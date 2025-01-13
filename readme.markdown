@@ -18,7 +18,7 @@ e9e630de2c62953140357db0444c3c3a  -
 e9e630de2c62953140357db0444c3c3a  -
 ```
 
-or using `browserify --deps` on a [voxeljs](http://voxeljs.com/) project:
+or using `browserify --deps` on a [voxeljs][] project:
 
 ```
 $ for((i=0;i<5;i++)); do browserify --deps browser.js | deps-sort | browser-pack | md5sum; done
@@ -105,3 +105,4 @@ npm install deps-sort
 MIT
 
 [module-deps]: https://github.com/browserify/module-deps#output-objects
+[voxeljs]: https://web.archive.org/web/20210307225301/http://www.voxeljs.com/
