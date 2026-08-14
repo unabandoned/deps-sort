@@ -1,4 +1,7 @@
-var through = require('through2');
+// through2 >=5 ships as ESM; the CJS `require()` interop hands back the module
+// namespace, so the classic callable (with `.obj`) lives on the default export.
+var through2 = require('through2');
+var through = through2.default || through2;
 var shasum = require('shasum-object');
 
 module.exports = function (opts) {
