@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var argv = require('subarg')(process.argv.slice(2));
+var argv = require('../lib/subarg')(process.argv.slice(2));
 var JSONStream = require('JSONStream');
 
 var sort = require('../')(argv);

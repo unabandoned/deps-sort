@@ -1,6 +1,6 @@
 var sort = require('../');
-var test = require('tap').test;
-var through = require('through2');
+var test = require('./tap-adapter').test;
+var through = require('through2').default || require('through2');
 
 test('expose true', function (t) {
     t.plan(1);
