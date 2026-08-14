@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.3](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.2...deps-sort-v2.0.3) (2026-08-14)
+
+
+### Bug Fixes
+
+* repoint JSONStream at its [@unabandoned](https://github.com/unabandoned) fork ([#8](https://github.com/unabandoned/deps-sort/issues/8)) ([37ad047](https://github.com/unabandoned/deps-sort/commit/37ad047ef7a320568d18abee7654f76f34c3e8b9))
+
+
+### Dependencies & maintenance
+
+* add .unabandoned.yml dashboard metadata ([#4](https://github.com/unabandoned/deps-sort/issues/4)) ([0ec829e](https://github.com/unabandoned/deps-sort/commit/0ec829e6be3234a051ce6c3bade308cd6f303acb))
+* **deps:** update unabandoned/.github digest to 88ce617 ([#6](https://github.com/unabandoned/deps-sort/issues/6)) ([2270fa7](https://github.com/unabandoned/deps-sort/commit/2270fa77db725194771d98de4f279d8186662f3d))
+* pin reusable workflows to the @unabandoned/.github v1.0.0 release ([#9](https://github.com/unabandoned/deps-sort/issues/9)) ([d443ed5](https://github.com/unabandoned/deps-sort/commit/d443ed51e4d6a1d744de4fa3728aa69781dd52c4))
+
 ## [2.0.2](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.1...deps-sort-v2.0.2) (2026-08-14)
 
 
