@@ -1,0 +1,23 @@
+schema: 1
+
+package: "@unabandoned/deps-sort"
+
+upstream:
+  repo: browserify/deps-sort
+  reason: "unmaintained upstream in the browserify ecosystem — left idle while its dependency tree ages"
+
+summary: >-
+  Sorts a module-deps dependency stream into a stable order so browserify
+  produces deterministic, reproducible bundles.
+
+why-forked: >-
+  A core browserify pipeline stage that went unmaintained while its dependency
+  tree aged; forked so Renovate keeps that tree current for consumers.
+
+status: active
+
+used-by:
+  - consumer: "@unabandoned/browserify"
+    purpose: "Orders module records so bundle output is deterministic."
+
+tags: [browserify, sort, determinism, dependency-graph]
