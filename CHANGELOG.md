@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.4](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.3...deps-sort-v2.0.4) (2026-08-18)
+
+
+### Dependencies & maintenance
+
+* **deps:** update commitlint monorepo to v21.2.2 ([#10](https://github.com/unabandoned/deps-sort/issues/10)) ([362ab19](https://github.com/unabandoned/deps-sort/commit/362ab19337d70bbadf41c7cb08a7b31e2afdde81))
+* **deps:** update unabandoned/.github action to v1.0.1 ([#12](https://github.com/unabandoned/deps-sort/issues/12)) ([f73fcdd](https://github.com/unabandoned/deps-sort/commit/f73fcdd5c14372a133dc8a7c37bb39fcef661671))
+
 ## [2.0.3](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.2...deps-sort-v2.0.3) (2026-08-14)
 
 
