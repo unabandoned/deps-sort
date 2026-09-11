@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.4...deps-sort-v2.0.5) (2026-09-11)
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github action to v1.0.4 ([#15](https://github.com/unabandoned/deps-sort/issues/15)) ([c89dad3](https://github.com/unabandoned/deps-sort/commit/c89dad3ae903f72bdc732613fd2a70082248ae7c))
+
 ## [2.0.4](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.3...deps-sort-v2.0.4) (2026-08-23)
 
 
