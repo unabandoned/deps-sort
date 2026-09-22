@@ -10,10 +10,10 @@
     "node": ">=22.12"
   },
   "dependencies": {
+    "@unabandoned/readable-stream": "^4.8.3",
     "JSONStream": "npm:@unabandoned/jsonstream@^1",
     "minimist": "1.2.8",
-    "shasum-object": "1.0.1",
-    "through2": "5.0.11"
+    "shasum-object": "1.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.2",
