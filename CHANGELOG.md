@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.1.0](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.4...deps-sort-v2.1.0) (2026-09-22)
+
+
+### Features
+
+* replace through2 with the slice of it this package uses ([#19](https://github.com/unabandoned/deps-sort/issues/19)) ([89b0b92](https://github.com/unabandoned/deps-sort/commit/89b0b92c16eff7e92aaed0f4314a2f529b95ac16))
+* vendor shasum-object and fast-safe-stringify ([#20](https://github.com/unabandoned/deps-sort/issues/20)) ([5ea1e2a](https://github.com/unabandoned/deps-sort/commit/5ea1e2a2ca81a4fa241d0ff9bef485fefde05cc4))
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github action to v1.0.4 ([#15](https://github.com/unabandoned/deps-sort/issues/15)) ([c89dad3](https://github.com/unabandoned/deps-sort/commit/c89dad3ae903f72bdc732613fd2a70082248ae7c))
+* **deps:** update unabandoned/.github action to v1.0.5 ([#17](https://github.com/unabandoned/deps-sort/issues/17)) ([9ecd214](https://github.com/unabandoned/deps-sort/commit/9ecd214856c6542357e1ed4a7e5a355e9642a14b))
+* **deps:** update unabandoned/.github action to v1.1.0 ([#18](https://github.com/unabandoned/deps-sort/issues/18)) ([09eb98c](https://github.com/unabandoned/deps-sort/commit/09eb98c1434013cb5f2d6946a12fd20fb9cc8e06))
+
 ## [2.0.4](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.3...deps-sort-v2.0.4) (2026-08-23)
 
 
