@@ -1,5 +1,5 @@
 var through = require('./through');
-var shasum = require('shasum-object');
+var shasum = require('./lib/shasum-object');
 
 module.exports = function (opts) {
     if (!opts) opts = {};
