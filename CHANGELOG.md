@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.1.0...deps-sort-v2.1.1) (2026-09-23)
+
+
+### Dependencies & maintenance
+
+* **deps:** update commitlint monorepo to v21.2.3 ([#21](https://github.com/unabandoned/deps-sort/issues/21)) ([c842c17](https://github.com/unabandoned/deps-sort/commit/c842c170a725c35cf5efd735055e24b7b873cd62))
+
 ## [2.1.0](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.4...deps-sort-v2.1.0) (2026-09-22)
 
 
