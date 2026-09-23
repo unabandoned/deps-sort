@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.1.0...deps-sort-v2.1.1) (2026-09-23)
+
+
+### Bug Fixes
+
+* stop dev-only commits from cutting releases ([#23](https://github.com/unabandoned/deps-sort/issues/23)) ([e7d9f85](https://github.com/unabandoned/deps-sort/commit/e7d9f85ebe601501647499f07d1421b8772f1831))
+
 ## [2.1.0](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.0.4...deps-sort-v2.1.0) (2026-09-22)
 
 
