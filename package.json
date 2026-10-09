@@ -17,9 +17,9 @@
     "node": ">=22.12"
   },
   "dependencies": {
-    "@unabandoned/readable-stream": "^4.8.3",
     "JSONStream": "npm:@unabandoned/jsonstream@^1",
-    "minimist": "1.2.8"
+    "minimist": "1.2.8",
+    "readable-stream": "npm:@unabandoned/readable-stream@^4.8.3"
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.3",
