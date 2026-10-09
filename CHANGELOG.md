@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.1.1...deps-sort-v2.1.2) (2026-10-09)
+
+
+### Bug Fixes
+
+* depend on readable-stream via the npm alias so it dedupes ([#29](https://github.com/unabandoned/deps-sort/issues/29)) ([302713d](https://github.com/unabandoned/deps-sort/commit/302713d124d25f84eb28d4e6efe45332ea98dd69))
+
 ## [2.1.1](https://github.com/unabandoned/deps-sort/compare/deps-sort-v2.1.0...deps-sort-v2.1.1) (2026-09-23)
 
 
